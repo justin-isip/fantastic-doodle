@@ -2,4 +2,6 @@
 
 print("hello")
 
-# I am adding more code
+# X is vector of numbers from 1 to 10
+
+x <- 1:10
